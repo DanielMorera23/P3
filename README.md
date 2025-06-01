@@ -242,7 +242,7 @@ void loop() {
 
 ### Descripción  
 Este ejemplo muestra un juego de Blackjack que se puede jugar desde un navegador web accediendo a la IP del ESP32.
-
+![image](https://github.com/user-attachments/assets/b73c37a6-422b-4fe4-bbdb-0855f5696fe0)
 ---
 
 ## PRÁCTICA B - CONEXIÓN BLUETOOTH (BLE) CON DISPOSITIVO MÓVIL
